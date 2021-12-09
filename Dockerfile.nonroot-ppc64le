@@ -1,0 +1,2 @@
+# Tags: nonroot-ppc64le
+FROM gcr.io/distroless/cc-debian11:nonroot-ppc64le

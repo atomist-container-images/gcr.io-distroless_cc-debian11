@@ -1,0 +1,2 @@
+# Tags: debug-nonroot
+FROM gcr.io/distroless/cc-debian11:debug-nonroot
